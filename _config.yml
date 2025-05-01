@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Laboratory for Translational Neuroscience and High Field Imaging"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "McLean Hospital"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Belmont, MA"
+  employer         : "McLean Hospital"
   uri              : # URL
   email            : "fdu@mclean.harvard.edu" 
 
